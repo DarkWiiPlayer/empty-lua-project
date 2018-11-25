@@ -1,0 +1,10 @@
+-- vim: set filetype=lua :miv ---
+-- This file format is documented at http://olivinelabs.com/busted/
+
+return {
+  _all = {
+  },
+  default = {
+		verbose = false
+  },
+}
